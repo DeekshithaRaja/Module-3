@@ -11,7 +11,7 @@ CYLINDER DIMENSIONS
 <img width="1765" height="642" alt="image" src="https://github.com/user-attachments/assets/c4535817-6a6c-4109-930f-a8d710bcf5f8" />
 
 CYLINDER AREA AND VOLUME
-<img width="1785" height="643" alt="image" src="https://github.com/user-attachments/assets/1bb6860a-366a-450f-a449-7d2ffab2204f" />
+<img width="1785" height="643" alt="image" src="https://github.com/user-attachments/assets/1bb6860a-366a-450f-a449-7d2ffab2204f" /> 
 
 
 
