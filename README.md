@@ -16,6 +16,10 @@ CYLINDER AREA AND VOLUME
 CYLINDER DIMENSIONS USING CONSTRUCTORS
 <img width="1778" height="646" alt="image" src="https://github.com/user-attachments/assets/f6a815a2-fdd9-4c52-b0fe-f4dd3f4160f3" />
 
+RECTANGLE DIMENSIONS
+<img width="1787" height="636" alt="image" src="https://github.com/user-attachments/assets/45dde1a7-f587-4177-a5b9-87738e43bac5" />
+
+
 
 
 
