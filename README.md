@@ -13,5 +13,9 @@ CYLINDER DIMENSIONS
 CYLINDER AREA AND VOLUME
 <img width="1785" height="643" alt="image" src="https://github.com/user-attachments/assets/1bb6860a-366a-450f-a449-7d2ffab2204f" /> 
 
+CYLINDER DIMENSIONS USING CONSTRUCTORS
+<img width="1778" height="646" alt="image" src="https://github.com/user-attachments/assets/f6a815a2-fdd9-4c52-b0fe-f4dd3f4160f3" />
+
+
 
 
