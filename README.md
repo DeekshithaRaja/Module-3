@@ -7,3 +7,7 @@ CELLPHONE ACTIONS
 BOOK DETAILS 
 <img width="1777" height="651" alt="image" src="https://github.com/user-attachments/assets/2e907883-d610-41a4-8ce1-a00cc60bad25" />
 
+CYLINDER DIMENSIONS
+<img width="1765" height="642" alt="image" src="https://github.com/user-attachments/assets/c4535817-6a6c-4109-930f-a8d710bcf5f8" />
+
+
